@@ -1,0 +1,56 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 2045 >>
+stream
+q 0.10 0.20 0.25 rg 0 635 612 157 re f Q
+q 0.16 0.66 0.60 rg 0 631 612 4 re f Q
+q 1 1 1 rg BT /F1 21 Tf 44 746 Td (Previa | Bateria de Testes TechStock) Tj ET Q
+q 0.88 0.93 0.93 rg BT /F1 10 Tf 44 719 Td (26/10/2026 | Python 3.14.2 | Terminal Linux) Tj ET Q
+q 0.05 0.42 0.35 rg BT /F1 13 Tf 44 682 Td (RESULTADO: TESTES SOLICITADOS APROVADOS) Tj ET Q
+q 0 0 0 rg BT /F1 9 Tf 44 659 Td (Entrada vazia e abc/@#$ no menu tratados; menu continua funcionando.) Tj ET Q
+q 0 0 0 rg BT /F1 9 Tf 44 642 Td (CSV validado: 4 produtos, setores unicos, campos e valores numericos validos.) Tj ET Q
+q 0.10 0.20 0.25 rg BT /F1 11 Tf 44 607 Td (CUSTOS CONFERIDOS) Tj ET Q
+q 0 0 0 rg BT /F1 8.5 Tf 48 584 Td (Notebook | Setor 1 | Qtd. 10 | Unit. R$ 3.500,00 | Total R$ 35.000,00) Tj ET Q
+q 0 0 0 rg BT /F1 8.5 Tf 48 562 Td (Mouse | Setor 2 | Qtd. 25 | Unit. R$ 50,00 | Total R$ 1.250,00) Tj ET Q
+q 0 0 0 rg BT /F1 8.5 Tf 48 540 Td (Teclado | Setor 3 | Qtd. 15 | Unit. R$ 120,00 | Total R$ 1.800,00) Tj ET Q
+q 0 0 0 rg BT /F1 8.5 Tf 48 518 Td (Monitor | Setor 4 | Qtd. 8 | Unit. R$ 900,00 | Total R$ 7.200,00) Tj ET Q
+q 0.10 0.20 0.25 rg 44 470 524 34 re f Q
+q 1 1 1 rg BT /F1 13 Tf 58 482 Td (CUSTO GERAL DO ESTOQUE: R$ 45.250,00) Tj ET Q
+q 0.10 0.20 0.25 rg BT /F1 11 Tf 44 439 Td (MATRIZ DE SETORES) Tj ET Q
+q 0 0 0 rg BT /F1 9 Tf 48 415 Td (Linha 1: S01 Notebook | S02 Mouse | S03 Teclado) Tj ET Q
+q 0 0 0 rg BT /F1 9 Tf 48 396 Td (Linha 2: S04 Monitor | Livre | Livre) Tj ET Q
+q 0 0 0 rg BT /F1 9 Tf 48 377 Td (Linha 3: Livre | Livre | Livre) Tj ET Q
+q 0.10 0.20 0.25 rg BT /F1 11 Tf 44 334 Td (OBSERVACAO) Tj ET Q
+q 0 0 0 rg BT /F1 9 Tf 44 311 Td (O painel pula a linha vazia antes do cabecalho do CSV.) Tj ET Q
+q 0 0 0 rg BT /F1 9 Tf 44 294 Td (O CSV/painel tem Monitor; o cadastro de produtos em main.py nao.) Tj ET Q
+q 0 0 0 rg BT /F1 9 Tf 44 277 Td (Essa diferenca foi registrada; nao altera os calculos do CSV.) Tj ET Q
+q 0.90 0.93 0.93 RG 44 66 m 568 66 l S Q
+q 0.35 0.40 0.42 rg BT /F1 8 Tf 44 49 Td (Relatorio detalhado: relatorio_testes.md) Tj ET Q
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000344 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2440
+%%EOF

@@ -1,0 +1,6 @@
+
+empresa,produto,setor,quantidade,custo_unitario
+TechStock,Notebook,1,10,3500.00
+TechStock,Mouse,2,25,50.00
+TechStock,Teclado,3,15,120.00
+TechStock,Monitor,4,8,900.00

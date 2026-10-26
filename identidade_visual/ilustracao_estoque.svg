@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Estoque organizado TechStock</title>
+  <desc id="desc">Ilustração de prateleiras organizadas por setor, com caixas identificadas e painel de inventário.</desc>
+  <rect width="1200" height="720" rx="28" fill="#F3F6EF"/>
+  <path d="M0 575h1200v145H0z" fill="#E6ECE3"/>
+  <path d="M74 163h720v16H74zM74 347h720v16H74zM74 531h720v16H74z" fill="#25312E"/>
+  <path d="M93 145h18v404H93zM757 145h18v404h-18z" fill="#596660"/>
+  <text x="82" y="116" font-family="'DM Sans', Arial, sans-serif" font-size="24" font-weight="700" fill="#25312E">ARMAZEM TECHSTOCK</text>
+  <text x="101" y="203" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#1F6D5A">SETOR 01</text>
+  <text x="101" y="387" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#1F6D5A">SETOR 02</text>
+  <text x="101" y="571" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#1F6D5A">SETOR 03</text>
+  <g stroke="#25312E" stroke-width="3">
+    <rect x="184" y="200" width="142" height="127" rx="9" fill="#DCE9DF"/><rect x="197" y="220" width="116" height="75" rx="5" fill="#1F6D5A"/><path d="M208 239h94M208 252h94M208 265h94" stroke="#F7F9F5" stroke-width="5"/>
+    <rect x="350" y="224" width="112" height="103" rx="9" fill="#F7E9B8"/><rect x="367" y="241" width="78" height="57" rx="5" fill="#F2C14E"/><path d="M378 256h56M378 269h56" stroke="#25312E" stroke-width="4"/>
+    <rect x="500" y="211" width="154" height="116" rx="9" fill="#F6DED6"/><rect x="518" y="230" width="118" height="67" rx="5" fill="#E87355"/><path d="M530 247h94M530 261h94" stroke="#FFF8F3" stroke-width="5"/>
+    <rect x="222" y="389" width="154" height="127" rx="9" fill="#F6DED6"/><rect x="240" y="411" width="118" height="79" rx="5" fill="#E87355"/><path d="M251 431h96M251 445h96M251 459h96" stroke="#FFF8F3" stroke-width="5"/>
+    <rect x="407" y="403" width="125" height="113" rx="9" fill="#DCE9DF"/><rect x="425" y="421" width="89" height="68" rx="5" fill="#1F6D5A"/><path d="M436 441h67M436 454h67" stroke="#F7F9F5" stroke-width="5"/>
+    <rect x="562" y="380" width="150" height="136" rx="9" fill="#F7E9B8"/><rect x="580" y="402" width="114" height="87" rx="5" fill="#F2C14E"/><path d="M591 423h92M591 438h92M591 453h92" stroke="#25312E" stroke-width="4"/>
+    <rect x="184" y="588" width="162" height="105" rx="9" fill="#DCE9DF"/><rect x="203" y="605" width="124" height="68" rx="5" fill="#1F6D5A"/>
+    <rect x="382" y="574" width="132" height="119" rx="9" fill="#F7E9B8"/><rect x="400" y="593" width="96" height="80" rx="5" fill="#F2C14E"/>
+    <rect x="550" y="600" width="162" height="93" rx="9" fill="#F6DED6"/><rect x="569" y="615" width="124" height="58" rx="5" fill="#E87355"/>
+  </g>
+  <rect x="854" y="188" width="286" height="342" rx="20" fill="#25312E"/>
+  <rect x="873" y="208" width="248" height="300" rx="11" fill="#FFFFFF"/>
+  <text x="896" y="247" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#25312E">RESUMO DO ESTOQUE</text>
+  <rect x="895" y="270" width="204" height="67" rx="9" fill="#EAF2EC"/>
+  <text x="911" y="296" font-family="Arial, sans-serif" font-size="13" fill="#596660">ITENS DISPONIVEIS</text>
+  <text x="911" y="323" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#1F6D5A">58 unidades</text>
+  <rect x="895" y="352" width="204" height="8" rx="4" fill="#E6ECE3"/><rect x="895" y="352" width="143" height="8" rx="4" fill="#1F6D5A"/>
+  <text x="895" y="391" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#25312E">SETOR 01  Caderno e perifericos</text>
+  <text x="895" y="423" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#25312E">SETOR 02  Acessorios</text>
+  <text x="895" y="455" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#25312E">SETOR 03  Equipamentos</text>
+  <circle cx="1078" cy="480" r="10" fill="#E87355"/><path d="m1073 480 4 4 7-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="895" y="482" font-family="Arial, sans-serif" font-size="13" fill="#596660">Atualizado agora</text>
+</svg>

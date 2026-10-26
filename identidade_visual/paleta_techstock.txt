@@ -1,0 +1,10 @@
+TechStock | Paleta oficial
+
+VERDE ESTOQUE     #1F6D5A
+GRAFITE           #25312E
+CORAL ALERTA      #E87355
+AMARELO INVENTARIO #F2C14E
+BRANCO FOLHA      #F7F9F5
+CINZA FOLHA       #E6ECE3
+
+Tipografia sugerida: Sora Semibold para titulos; DM Sans para textos e tabelas.
